@@ -129,7 +129,6 @@
                 "TakesNoDamage": "<actor>{actor}</actor> takes no damage.",
                 "TheTarget": "The target"
             },
-            "Attacks": "Attacks",
             "Character": {
                 "Attribute": {
                     "Apex": "Apex Attribute",
@@ -5804,7 +5803,8 @@
             "loot": "Loot",
             "npc": "NPC",
             "party": "Party",
-            "vehicle": "Vehicle"
+            "vehicle": "Vehicle",
+            "army": "Army"
         },
         "Item": {
             "action": "Ability",
